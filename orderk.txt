@@ -1,0 +1,28 @@
+<html>
+<head> <title>Order here </title>PLACE ORDER</head> <br><br> 
+<body BGCOLOR =cyan>
+<form>
+Name :        <input type ="text" name ="firstname"> <br><br>
+Othernames :  <input type ="text" name ="othernames"> <br><br>
+Email :       <input type ="text" emailaddress ="email"> <br><br>
+phone number: <input type ="text" phonenumber  ="phonenumber"> <br><br>
+location:     <input type ="text" location ="location"> <br><br>
+
+ Drinks
+<select>
+<option> beer
+<option>wine
+<option>vodka
+<option>gin
+<option>whisky
+</select> 
+Amount :  <input type ="text"amount ="total amount"> <br><br>
+Date: <input type ="text" location ="location"> <br><br>
+comments :
+<Textarea name ="comments" cols=20 rows=5>
+</textarea> <br> <br>
+ <input type="submit" value="send">
+</form>
+
+
+</body> </html>
